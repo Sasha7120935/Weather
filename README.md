@@ -1,0 +1,6 @@
+# Getting weather via API
+
+
+
+
+
